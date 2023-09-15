@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @j-Z52
 - 👀 I’m interested in tech and cybersecurity
-- 🌱 I’m currently learning on HackTheBox
-- 📫 How to reach me: z52. on discord
+- 📫 How to reach me: z52. on Discord

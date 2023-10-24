@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @j-Z52
 - 👀 I’m interested in tech and cybersecurity
-- 📫 How to reach me: z52. on Discord
+- 📫 How to reach me: [Discord](url:https://discordapp.com/users/849443852729581598)
